@@ -16,7 +16,7 @@ Why am I making the device? Many people who grow plants in their homes often fin
 
 
 ### Flow-Chart of Decision Logic
-![flowchart](/AutomaticPlantWaterer/assets/Flowchart.svg)
+![flowchart](/assets/Flowchart.svg)
 
 ## List of Components
 - ``1x`` Seed Studio Grove Arduino Board
@@ -28,7 +28,7 @@ Why am I making the device? Many people who grow plants in their homes often fin
 - ``1x`` 9V Battery
 
 ### A Picture of the Setup
-![img](/AutomaticPlantWaterer/assets/IMG_6209.jpeg)
+![img](/assets/IMG_6209.jpeg)
 
 
 ## Procedure
