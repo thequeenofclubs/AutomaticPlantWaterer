@@ -1,10 +1,11 @@
 # Project Report - Automatic Plant Waterer
 #### Gabe Gonsalves
 ##### April 10, 2022
+###### Coded on macOS in Java
 
 ## Introduction
 For the EECS 1021 Minor Project, the task was to make an automated plant-watering machine that monitors the moisture level in the soil and determines whether or not the plant is in need of watering. 
-###### Coded on macOS in Java
+
 
 ## Context
 What is the plant-watering machine? The plant watering machine is a device that automates the watering of a houseplant using the grove board along with ``Firmata4j`` to determine the moisture content in the plant's soil. 
