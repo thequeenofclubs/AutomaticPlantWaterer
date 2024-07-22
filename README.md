@@ -1,5 +1,5 @@
 # Project Report - Automatic Plant Waterer
-#### Tara Gonsalves
+#### Valerie Gonsalves
 ##### April 10, 2022
 ###### Coded on macOS in Java
 
